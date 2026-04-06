@@ -1,3 +1,7 @@
+Tú 
+Đạt
+Mạnh 
+Nam
 td-data-table-cell [numeric]="true"
 Nam 
 MẠnh
